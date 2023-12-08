@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Biddut Roy [Nill]</h1>
+<h1 align="center">Hi 👋, I'm Biddut Cahndro Roy </h1>
 <h3 align="center">A passionate MERN Stack developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=biddut-roy&label=Profile%20views&color=0e75b6&style=flat" alt="biddut-roy" /> </p>
