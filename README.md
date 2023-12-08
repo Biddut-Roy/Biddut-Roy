@@ -4,6 +4,7 @@
 <h1 align="center">Hi 👋, I'm Biddut Cahndro Roy </h1>
 <h3 align="center">A passionate MERN Stack developer from Bangladesh</h3>
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Biddut-Roy&theme=duskfox)](https://git.io/streak-stats)
 
 
 - 👨‍💻 All of my projects are available at [my git repo](my git repo)
