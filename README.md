@@ -4,12 +4,14 @@
 <h1 align="center">Hi 👋, I'm Biddut Cahndro Roy </h1>
 <h3 align="center">A passionate MERN Stack developer from Bangladesh</h3>
 
+<br />
+<p align="center">
+ <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Biddut-Roy&theme=gruvbox-duo" alt="GitHub Streak" /></a>
+</p>
 
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Biddut-Roy&theme=whatsapp-light)](https://git.io/streak-stats)
 
-
-
-
+<br />
+<br />
 - 👨‍💻 All of my projects are available at [my git repo]
 
 - 📫 How to reach me **biddut.chandro.roy2@gmail.com**
