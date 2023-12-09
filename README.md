@@ -1,7 +1,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=biddut-roy&label=Profile%20views&color=0e75b6&style=flat" alt="biddut-roy" /> </p>
 
 
-<a href="/destination">
+<a href="https://www.linkedin.com/in/biddut-roy" target="_blank">
   <img src="https://raw.githubusercontent.com/Biddut-Roy/Biddut-Roy/main/banner%20(2).jpg"/>
 </a>
 
