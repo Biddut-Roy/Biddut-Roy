@@ -54,7 +54,7 @@
 ## :eyes: Current overview
 
 <div>
-  <img align="right" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/3c00f6105775659.5f84899401909.gif" alt="Coding">
+  <img align="right" width="380" src="https://www.fegno.com/wp-content/uploads/2022/03/web-development-company-in-kochi.gif" alt="Coding">
 </div>
 
 - 🔭 I’m currently working on ...
