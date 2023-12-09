@@ -53,6 +53,10 @@
 
 ## :eyes: Current overview
 
+<div>
+  <img align="right" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/3c00f6105775659.5f84899401909.gif" alt="Coding">
+</div>
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
