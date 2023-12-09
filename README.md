@@ -2,7 +2,7 @@
 
 
 <a href="https://www.linkedin.com/in/biddut-roy" target="_blank">
-  <img src="https://raw.githubusercontent.com/Biddut-Roy/Biddut-Roy/main/Biddut%20gitHub.png" />
+  <img src="https://raw.githubusercontent.com/Biddut-Roy/Biddut-Roy/main/gitHUb%20banner.png" />
 </a>
 
 <h1 align="center">Hi 👋, I'm Biddut Cahndro Roy </h1>
