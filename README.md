@@ -1,6 +1,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=biddut-roy&label=Profile%20views&color=0e75b6&style=flat" alt="biddut-roy" /> </p>
 
 
+<a href="/destination">
+  <img src="https://raw.githubusercontent.com/Biddut-Roy/Biddut-Roy/main/banner%20(2).jpg"/>
+</a>
+
 <h1 align="center">Hi 👋, I'm Biddut Cahndro Roy </h1>
 <h3 align="center">A passionate MERN Stack developer from Bangladesh</h3>
 
